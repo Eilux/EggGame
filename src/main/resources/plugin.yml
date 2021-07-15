@@ -1,0 +1,7 @@
+name: EggGame
+version: ${project.version}
+main: dev.bodner.jack.egg_game.EggGame
+api-version: 1.17
+authors: [ Eilux ]
+description: A game with the Dragon Egg for servers
+load: POSTWORLD
